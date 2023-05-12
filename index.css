@@ -1,0 +1,21 @@
+body{/*background-color: rgba(29, 17, 2, 0.267);
+border: 13px solid rgb(168, 59, 59);*/
+background-color: #fefefe;
+      margin: 5% auto 20% auto;
+      border: 2px solid #888;
+      width: 80%;
+      border-color: #329dd5;
+}
+.elemnt{font-size: large;
+font-family: 'Times New Roman', Times, serif;
+}
+#form,#header{
+    padding: 13px 20px;
+    margin: 10px 10px;
+}
+input{ 
+    padding: 4px;
+    margin: 5px; 
+    box-sizing: border-box; 
+    border: 2px solid rgb(146, 140, 140);
+}
